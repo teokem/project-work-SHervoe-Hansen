@@ -1,0 +1,12 @@
+@<TRIPOS>MOLECULE
+SOD
+    1     0     1     0     0
+SMALL
+No Charge or Current Charge
+
+
+@<TRIPOS>ATOM
+      1 Na           0.0000     0.0000     0.0000 Na         1 SOD       0.749532
+@<TRIPOS>BOND		 
+@<TRIPOS>SUBSTRUCTURE
+     1 SOD         1 TEMP              0 ****  ****    0 ROOT

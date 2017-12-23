@@ -1,0 +1,16 @@
+source leaprc.protein.ff14SB
+source leaprc.gaff2
+source leaprc.water.tip3p
+
+loadAmberParams frcmod.tip3p_ion_scaled
+
+POP = loadmol2 POP_scaled.mol2
+SOD = loadmol2 SOD.mol2
+CHL = loadmol2 CHL.mol2
+Lyso = loadpdb HEWL_POP.pdb
+
+solvateOct  Lyso TIP3PBOX 10.0
+
+saveAmberParm Lyso HEWL_POP.parm7 HEWL_POP.rst7
+charge Lyso
+quit
