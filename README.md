@@ -1,3 +1,11 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/teokem/project-work-SHervoe-Hansen/master)
+
+To be edited!
+Binder link if required:
+https://mybinder.org/v2/gh/teokem/project-work-SHervoe-Hansen/master
+
+
+
 # Project Work for Reproducible and Interactive Data Science
 
 This is an empty repository for the project work
@@ -10,5 +18,4 @@ of the course "Reproducible and Interactive Data Science".
 3. Your two referees will file their reports as Github _issues_ on your project's Github page. When refereeing, remember to consider the [project criteria](http://github.com/mlund/jupyter-course) and try to give constructive feedback that will improve the notebook.
 
 ## Note
-
 Please save your project when the course finished as we may delete it before the next course event.
