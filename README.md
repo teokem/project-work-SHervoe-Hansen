@@ -1,5 +1,4 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/teokem/project-work-SHervoe-Hansen/master)
-[![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)
 
 To be edited!
 Binder link if required:
