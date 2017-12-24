@@ -1,7 +1,8 @@
-name: LUcompute
+name: Lyso_binding
 channels:
     - defaults
     - conda-forge
+    - ambermd
 dependencies:
     - python=3.6
     - numpy=1.13
