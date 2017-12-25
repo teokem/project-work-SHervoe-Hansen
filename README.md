@@ -12,7 +12,7 @@ The layout is as follows
 ## For the referees
 Remember to consider the [project criteria](http://github.com/mlund/jupyter-course) and try to give constructive feedback that will improve the notebook.
 
-For evaluation of the notebook we recommend the usage of Binder using the provided link for the display of Jupyter widgets.
+For evaluation of the notebook we recommend the usage of Binder (using the provided link or shield) clearly all outputs and then run all cells for the display of Jupyter widgets.
 
 ## Notes for author
 Please save your project when the course finished as we may delete it before the next course event.
