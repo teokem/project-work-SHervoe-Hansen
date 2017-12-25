@@ -6,7 +6,7 @@ This is supporting information for the an unpublished scientific manuscript by P
 
 The layout is as follows
 
-- `data/` AMBER parameter, trajectory, and topology files 
+- `data/` AMBER parameter, trajectory, and topology files.
 - `Lyso_binding.ipynb` Jupyter notebook for conformational flexbility of Lysozyme in the presences of pyrophosphate by molecular dynamics.
 
 ## For the referees
