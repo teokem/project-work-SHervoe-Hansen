@@ -14,5 +14,5 @@ Remember to consider the [project criteria](http://github.com/mlund/jupyter-cour
 
 For evaluation of the notebook we recommend the usage of Binder using the provided link for the display of Jupyter widgets.
 
-## Note
+## Notes for authors 
 Please save your project when the course finished as we may delete it before the next course event.
