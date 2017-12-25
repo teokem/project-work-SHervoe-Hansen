@@ -1,0 +1,12 @@
+@<TRIPOS>MOLECULE
+CHL
+    1     0     1     0     0
+SMALL
+No Charge or Current Charge
+
+
+@<TRIPOS>ATOM
+      1 Cl           0.0000     0.0000     0.0000 Cl         1 CHL       -0.749532
+@<TRIPOS>BOND		 
+@<TRIPOS>SUBSTRUCTURE
+     1 CHL         1 TEMP              0 ****  ****    0 ROOT
